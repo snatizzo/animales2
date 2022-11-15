@@ -1,0 +1,31 @@
+body
+{
+    background-color: white;
+}
+.div1
+{
+    background-color: white;
+    color: black;
+}
+.nota
+{
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: large;
+}
+.div_boton
+{
+    font-family: 'Corinthia', cursive;  
+    margin-top: 90px; 
+    width: 130;
+    font-weight: bold;
+}
+.copy-right-footer
+{
+    background-color: white;
+    color: black;
+    width: 130px;
+    font-size: small;
+    text-align: center;
+    text-shadow: 5px 5px 5px white;
+}
